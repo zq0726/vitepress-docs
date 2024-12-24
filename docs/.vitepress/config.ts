@@ -5,7 +5,6 @@ export default defineConfig({
   title: "説明文档",
   description: "后台管理的说明文档",
   base: "/vitepress-docs/",
-  outDir: "../dist",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
