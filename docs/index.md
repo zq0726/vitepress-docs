@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "説明文档"
+  name: "説明文档 "
   text: "后台管理的说明文档"
   tagline: My great project tagline
   actions:
